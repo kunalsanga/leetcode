@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kunalsanga/leetcode/tree/master/0020-valid-parentheses) |
 | [0332-reconstruct-itinerary](https://github.com/kunalsanga/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/kunalsanga/leetcode/tree/master/0336-palindrome-pairs) |
 ## Sorting
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/kunalsanga/leetcode/tree/master/1732-find-the-highest-altitude) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kunalsanga/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
