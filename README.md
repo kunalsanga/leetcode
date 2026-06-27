@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kunalsanga/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/kunalsanga/leetcode/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/kunalsanga/leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0335-self-crossing](https://github.com/kunalsanga/leetcode/tree/master/0335-self-crossing) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kunalsanga/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Binary Search
 |  |
@@ -91,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/kunalsanga/leetcode/tree/master/0332-reconstruct-itinerary) |
+## Math
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/kunalsanga/leetcode/tree/master/0335-self-crossing) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/kunalsanga/leetcode/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
