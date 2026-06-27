@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0327-count-of-range-sum](https://github.com/kunalsanga/leetcode/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kunalsanga/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/kunalsanga/leetcode/tree/master/0330-patching-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kunalsanga/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Binary Search
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kunalsanga/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0330-patching-array](https://github.com/kunalsanga/leetcode/tree/master/0330-patching-array) |
 <!---LeetCode Topics End-->
