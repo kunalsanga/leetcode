@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunalsanga/leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/kunalsanga/leetcode/tree/master/0067-add-binary) |
 | [0332-reconstruct-itinerary](https://github.com/kunalsanga/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/kunalsanga/leetcode/tree/master/0336-palindrome-pairs) |
 ## Sorting
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kunalsanga/leetcode/tree/master/0067-add-binary) |
 | [0335-self-crossing](https://github.com/kunalsanga/leetcode/tree/master/0335-self-crossing) |
 ## Geometry
 |  |
@@ -150,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/kunalsanga/leetcode/tree/master/0110-balanced-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kunalsanga/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kunalsanga/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
