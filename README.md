@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/kunalsanga/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kunalsanga/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/kunalsanga/leetcode/tree/master/0332-reconstruct-itinerary) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kunalsanga/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -150,10 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/kunalsanga/leetcode/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kunalsanga/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/kunalsanga/leetcode/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kunalsanga/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
