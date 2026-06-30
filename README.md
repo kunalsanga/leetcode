@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0336-palindrome-pairs](https://github.com/kunalsanga/leetcode/tree/master/0336-palindrome-pairs) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kunalsanga/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kunalsanga/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/kunalsanga/leetcode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/kunalsanga/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kunalsanga/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/kunalsanga/leetcode/tree/master/0336-palindrome-pairs) |
 | [0696-count-binary-substrings](https://github.com/kunalsanga/leetcode/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/kunalsanga/leetcode/tree/master/0796-rotate-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kunalsanga/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kunalsanga/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kunalsanga/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3838-weighted-word-mapping](https://github.com/kunalsanga/leetcode/tree/master/3838-weighted-word-mapping) |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/kunalsanga/leetcode/tree/master/0796-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kunalsanga/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
