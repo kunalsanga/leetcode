@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunalsanga/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kunalsanga/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/kunalsanga/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0327-count-of-range-sum](https://github.com/kunalsanga/leetcode/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kunalsanga/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/kunalsanga/leetcode/tree/master/0330-patching-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kunalsanga/leetcode/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/kunalsanga/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kunalsanga/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Depth-First Search
 |  |
