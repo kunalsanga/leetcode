@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalsanga/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kunalsanga/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/kunalsanga/leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/kunalsanga/leetcode/tree/master/0125-valid-palindrome) |
 | [0332-reconstruct-itinerary](https://github.com/kunalsanga/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/kunalsanga/leetcode/tree/master/0336-palindrome-pairs) |
 | [0696-count-binary-substrings](https://github.com/kunalsanga/leetcode/tree/master/0696-count-binary-substrings) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunalsanga/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalsanga/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/kunalsanga/leetcode/tree/master/0125-valid-palindrome) |
 | [0696-count-binary-substrings](https://github.com/kunalsanga/leetcode/tree/master/0696-count-binary-substrings) |
 | [2540-minimum-common-value](https://github.com/kunalsanga/leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kunalsanga/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
