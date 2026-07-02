@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/kunalsanga/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalsanga/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kunalsanga/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/kunalsanga/leetcode/tree/master/0169-majority-element) |
 | [0327-count-of-range-sum](https://github.com/kunalsanga/leetcode/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kunalsanga/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/kunalsanga/leetcode/tree/master/0330-patching-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kunalsanga/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/kunalsanga/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/kunalsanga/leetcode/tree/master/0190-reverse-bits) |
 | [0327-count-of-range-sum](https://github.com/kunalsanga/leetcode/tree/master/0327-count-of-range-sum) |
 ## Binary Indexed Tree
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kunalsanga/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kunalsanga/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/kunalsanga/leetcode/tree/master/0169-majority-element) |
 | [0336-palindrome-pairs](https://github.com/kunalsanga/leetcode/tree/master/0336-palindrome-pairs) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kunalsanga/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kunalsanga/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kunalsanga/leetcode/tree/master/0169-majority-element) |
 | [0332-reconstruct-itinerary](https://github.com/kunalsanga/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kunalsanga/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kunalsanga/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kunalsanga/leetcode/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kunalsanga/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## String Matching
 |  |
