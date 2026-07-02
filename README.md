@@ -312,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kunalsanga/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kunalsanga/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
