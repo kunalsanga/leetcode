@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kunalsanga/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/kunalsanga/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalsanga/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/kunalsanga/leetcode/tree/master/0136-single-number) |
 | [0327-count-of-range-sum](https://github.com/kunalsanga/leetcode/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kunalsanga/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/kunalsanga/leetcode/tree/master/0330-patching-array) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kunalsanga/leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/kunalsanga/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kunalsanga/leetcode/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kunalsanga/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/kunalsanga/leetcode/tree/master/0868-binary-gap) |
