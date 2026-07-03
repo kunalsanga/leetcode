@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kunalsanga/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/kunalsanga/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/kunalsanga/leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/kunalsanga/leetcode/tree/master/0191-number-of-1-bits) |
 | [0327-count-of-range-sum](https://github.com/kunalsanga/leetcode/tree/master/0327-count-of-range-sum) |
 ## Binary Indexed Tree
 |  |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kunalsanga/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kunalsanga/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kunalsanga/leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/kunalsanga/leetcode/tree/master/0191-number-of-1-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kunalsanga/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/kunalsanga/leetcode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kunalsanga/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
