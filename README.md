@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kunalsanga/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kunalsanga/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kunalsanga/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kunalsanga/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/kunalsanga/leetcode/tree/master/0335-self-crossing) |
 | [0479-largest-palindrome-product](https://github.com/kunalsanga/leetcode/tree/master/0479-largest-palindrome-product) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kunalsanga/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kunalsanga/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kunalsanga/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kunalsanga/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Geometry
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/kunalsanga/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/kunalsanga/leetcode/tree/master/0226-invert-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kunalsanga/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kunalsanga/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
