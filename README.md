@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kunalsanga/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kunalsanga/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kunalsanga/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kunalsanga/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3838-weighted-word-mapping](https://github.com/kunalsanga/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kunalsanga/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kunalsanga/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kunalsanga/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kunalsanga/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kunalsanga/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kunalsanga/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kunalsanga/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kunalsanga/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## String
 |  |
 | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/kunalsanga/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kunalsanga/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kunalsanga/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kunalsanga/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/kunalsanga/leetcode/tree/master/2540-minimum-common-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kunalsanga/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kunalsanga/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kunalsanga/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Counting
 |  |
 | ------- |
