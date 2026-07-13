@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/kunalsanga/leetcode/tree/master/0479-largest-palindrome-product) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kunalsanga/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kunalsanga/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kunalsanga/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kunalsanga/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kunalsanga/leetcode/tree/master/3620-network-recovery-pathways) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kunalsanga/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/kunalsanga/leetcode/tree/master/0479-largest-palindrome-product) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kunalsanga/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kunalsanga/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kunalsanga/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kunalsanga/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kunalsanga/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Geometry
