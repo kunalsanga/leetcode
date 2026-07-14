@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kunalsanga/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kunalsanga/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kunalsanga/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kunalsanga/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kunalsanga/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kunalsanga/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kunalsanga/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalsanga/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kunalsanga/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0396-rotate-function](https://github.com/kunalsanga/leetcode/tree/master/0396-rotate-function) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kunalsanga/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kunalsanga/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kunalsanga/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/kunalsanga/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/kunalsanga/leetcode/tree/master/0396-rotate-function) |
 | [0479-largest-palindrome-product](https://github.com/kunalsanga/leetcode/tree/master/0479-largest-palindrome-product) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kunalsanga/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kunalsanga/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kunalsanga/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kunalsanga/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kunalsanga/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -431,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/kunalsanga/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kunalsanga/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
