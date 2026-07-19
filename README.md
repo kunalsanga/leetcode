@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/kunalsanga/leetcode/tree/master/0330-patching-array) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kunalsanga/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/kunalsanga/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kunalsanga/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kunalsanga/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/kunalsanga/leetcode/tree/master/0336-palindrome-pairs) |
 | [0696-count-binary-substrings](https://github.com/kunalsanga/leetcode/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/kunalsanga/leetcode/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kunalsanga/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kunalsanga/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kunalsanga/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/kunalsanga/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kunalsanga/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kunalsanga/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/kunalsanga/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kunalsanga/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
 | ------- |
@@ -472,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/kunalsanga/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kunalsanga/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
