@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/kunalsanga/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/kunalsanga/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kunalsanga/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kunalsanga/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kunalsanga/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kunalsanga/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kunalsanga/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kunalsanga/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/kunalsanga/leetcode/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kunalsanga/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kunalsanga/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kunalsanga/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kunalsanga/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kunalsanga/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kunalsanga/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1833-maximum-ice-cream-bars](https://github.com/kunalsanga/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kunalsanga/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kunalsanga/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kunalsanga/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/kunalsanga/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kunalsanga/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/kunalsanga/leetcode/tree/master/0332-reconstruct-itinerary) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kunalsanga/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kunalsanga/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kunalsanga/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/kunalsanga/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/kunalsanga/leetcode/tree/master/0479-largest-palindrome-product) |
 | [0788-rotated-digits](https://github.com/kunalsanga/leetcode/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kunalsanga/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kunalsanga/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kunalsanga/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kunalsanga/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kunalsanga/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -329,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/kunalsanga/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kunalsanga/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/kunalsanga/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kunalsanga/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kunalsanga/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
