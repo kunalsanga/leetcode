@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/kunalsanga/leetcode/tree/master/0336-palindrome-pairs) |
 | [0396-rotate-function](https://github.com/kunalsanga/leetcode/tree/master/0396-rotate-function) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kunalsanga/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1260-shift-2d-grid](https://github.com/kunalsanga/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/kunalsanga/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kunalsanga/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kunalsanga/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kunalsanga/leetcode/tree/master/0048-rotate-image) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kunalsanga/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/kunalsanga/leetcode/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kunalsanga/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kunalsanga/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kunalsanga/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kunalsanga/leetcode/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/kunalsanga/leetcode/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kunalsanga/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [3838-weighted-word-mapping](https://github.com/kunalsanga/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kunalsanga/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
