@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/kunalsanga/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kunalsanga/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kunalsanga/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1980-find-unique-binary-string](https://github.com/kunalsanga/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kunalsanga/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kunalsanga/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/kunalsanga/leetcode/tree/master/2540-minimum-common-value) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kunalsanga/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kunalsanga/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kunalsanga/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1980-find-unique-binary-string](https://github.com/kunalsanga/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kunalsanga/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/kunalsanga/leetcode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/kunalsanga/leetcode/tree/master/2784-check-if-array-is-good) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/kunalsanga/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kunalsanga/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kunalsanga/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1980-find-unique-binary-string](https://github.com/kunalsanga/leetcode/tree/master/1980-find-unique-binary-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kunalsanga/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kunalsanga/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kunalsanga/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -529,4 +532,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kunalsanga/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1980-find-unique-binary-string](https://github.com/kunalsanga/leetcode/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
