@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/kunalsanga/leetcode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/kunalsanga/leetcode/tree/master/0486-predict-the-winner) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kunalsanga/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0877-stone-game](https://github.com/kunalsanga/leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/kunalsanga/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/kunalsanga/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kunalsanga/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/kunalsanga/leetcode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/kunalsanga/leetcode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/kunalsanga/leetcode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/kunalsanga/leetcode/tree/master/0877-stone-game) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kunalsanga/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kunalsanga/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kunalsanga/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/kunalsanga/leetcode/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/kunalsanga/leetcode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/kunalsanga/leetcode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/kunalsanga/leetcode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kunalsanga/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kunalsanga/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kunalsanga/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -562,4 +565,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kunalsanga/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kunalsanga/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
