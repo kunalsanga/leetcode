@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kunalsanga/leetcode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/kunalsanga/leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/kunalsanga/leetcode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/kunalsanga/leetcode/tree/master/1510-stone-game-iv) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kunalsanga/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kunalsanga/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kunalsanga/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/kunalsanga/leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/kunalsanga/leetcode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kunalsanga/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1510-stone-game-iv](https://github.com/kunalsanga/leetcode/tree/master/1510-stone-game-iv) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kunalsanga/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kunalsanga/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kunalsanga/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -568,4 +570,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/kunalsanga/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kunalsanga/leetcode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/kunalsanga/leetcode/tree/master/1510-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kunalsanga/leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kunalsanga/leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kunalsanga/leetcode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kunalsanga/leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
