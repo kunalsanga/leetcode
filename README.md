@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kunalsanga/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kunalsanga/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/kunalsanga/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2029-stone-game-ix](https://github.com/kunalsanga/leetcode/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kunalsanga/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kunalsanga/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kunalsanga/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kunalsanga/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/kunalsanga/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kunalsanga/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/kunalsanga/leetcode/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kunalsanga/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kunalsanga/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kunalsanga/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/kunalsanga/leetcode/tree/master/1510-stone-game-iv) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kunalsanga/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kunalsanga/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/kunalsanga/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kunalsanga/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kunalsanga/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kunalsanga/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kunalsanga/leetcode/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kunalsanga/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2029-stone-game-ix](https://github.com/kunalsanga/leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kunalsanga/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kunalsanga/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kunalsanga/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -580,14 +584,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kunalsanga/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kunalsanga/leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/kunalsanga/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/kunalsanga/leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kunalsanga/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/kunalsanga/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kunalsanga/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/kunalsanga/leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -596,4 +603,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kunalsanga/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/kunalsanga/leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
