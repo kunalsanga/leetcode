@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kunalsanga/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kunalsanga/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kunalsanga/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalsanga/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kunalsanga/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kunalsanga/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kunalsanga/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kunalsanga/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kunalsanga/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kunalsanga/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalsanga/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3838-weighted-word-mapping](https://github.com/kunalsanga/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kunalsanga/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
