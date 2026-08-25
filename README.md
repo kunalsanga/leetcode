@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kunalsanga/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/kunalsanga/leetcode/tree/master/3660-jump-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kunalsanga/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kunalsanga/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/kunalsanga/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3838-weighted-word-mapping](https://github.com/kunalsanga/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kunalsanga/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kunalsanga/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kunalsanga/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kunalsanga/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kunalsanga/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
 |  |
 | ------- |
