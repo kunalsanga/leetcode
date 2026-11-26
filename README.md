@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kunalsanga/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kunalsanga/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kunalsanga/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3934-smallest-unique-subarray](https://github.com/kunalsanga/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/kunalsanga/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kunalsanga/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kunalsanga/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3934-smallest-unique-subarray](https://github.com/kunalsanga/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kunalsanga/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kunalsanga/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kunalsanga/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3934-smallest-unique-subarray](https://github.com/kunalsanga/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Enumeration
 |  |
 | ------- |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/kunalsanga/leetcode/tree/master/0336-palindrome-pairs) |
+| [3934-smallest-unique-subarray](https://github.com/kunalsanga/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -647,4 +651,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/kunalsanga/leetcode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/kunalsanga/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kunalsanga/leetcode/tree/master/2029-stone-game-ix) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/kunalsanga/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/kunalsanga/leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
